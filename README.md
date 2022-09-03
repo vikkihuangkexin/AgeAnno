@@ -6,7 +6,7 @@ Kexin Huang, Hoaran Gong, Jingjing Guan, Lingxiao Zhang, Changbao Hu, Weiling Zh
 
 Database introduction:
 
-we annotated 5 580 aging-related genes collected from six public resources based on 1 678 610 cells from 28 healthy tissue samples with ages ranging from 0 to 110 years.
+scAgeAnno annotated 5 580 aging-related genes collected from six public resources based on 1 678 610 cells from 28 healthy tissue samples with ages ranging from 0 to 110 years.
 For scRNA data, first, we performed differential gene expression analysis for aging-related genes (DEGs) in each cell type and identified tissue- and cell-type-specific DEGs between different age groups. 
 Then, we annotated aging-related DEGs into three aging-related biological categories, including immune genes, telomere maintenance genes, and circadian genes. 
 To better understand the potential mechanisms of aging-related genes, we performed enrichment analysis and transcriptomic variation analysis to determine aging effect on gene transcriptional noise; 
@@ -21,12 +21,12 @@ We also identified gene-drug or gene-chemical interactions and related diseases 
 Data legend:
 
 scRNA:
-scRNAmarker: cell-type specific marker genes
-Aging-related DEG.txt: aging-related differential expressed genes 
-gene_VariationCoefficient.txt: results of transcriptomic variation analysis
-Pathways.txt: aging-related GO pathways
-cell_cell_communication.txt: results of cell-cell interaction analysis
-TF regulon.txt: TF and target genes by using SCENIC
+scRNAmarker: cell-type specific marker genes  
+Aging-related DEG.txt: aging-related differential expressed genes  
+gene_VariationCoefficient.txt: results of transcriptomic variation analysis  
+Pathways.txt: aging-related GO pathways  
+cell_cell_communication.txt: results of cell-cell interaction analysis  
+TF regulon.txt: TF and target genes by using SCENIC  
 
 scATAC:
 scATACmarker.txt: cell-type specific marker peaks
