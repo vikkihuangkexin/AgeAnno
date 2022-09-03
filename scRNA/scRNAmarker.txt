@@ -1,0 +1,433 @@
+scRNA		
+Tissue	Cell type	Marker gene
+bladder	myo-CAFs (mCAFs)	RGS5
+bladder	Myeloid cells	LYZ
+bladder	Mast cells	TPSAB1
+bladder	Epithelial cells	EPCAM
+bladder	Epithelial cell	KRT18
+bladder	Epithelial cell	KRT19
+bladder	Fibroblast	S100A4
+bladder	Fibroblast	COL3A1
+bladder	Fibroblast	COL1A1
+bladder	Fibroblast	COL1A2
+bladder	Endothelial  cells	CD31
+bladder	Endothelial cell	SELE
+bladder	Endothelial cell	PECAM1
+bladder	Endothelial cell	VCAM1
+bladder	Endothelial cell	CDH5
+bladder	Monocyte	LYZ
+bladder	Monocyte	MS4A7
+bladder	Monocyte	CD14
+bladder	T cell	CD3D
+bladder	T cell	CD3E
+bladder	B cell	MZB1
+bladder	B cell	CD79A
+Blood	naive B cells(B1)	MS4A1
+Blood	naive B cells	TCL1A
+Blood	naive B cells	CD37
+Blood	naive B cells	IGHD
+Blood	naive  CD4+ T cells	CCR7
+Blood	naive  CD4+ T cells	SELL
+Blood	naive  CD4+ T cells	CD4
+Blood	Activated CD8+ T cells(CD8a)	CD8B
+Blood	Activated CD8+ T cells(CD8a)	CCL5
+Blood	γδ T cells	TRDC
+Blood	megakaryocytes	PPBP
+Blood	megakaryocytes	ITGB3
+Blood	megakaryocytes	CD61
+Blood	megakaryocytes	CMTM5
+Blood	mDC type 2 (mDC2)	FCER1A
+Blood	mDC type 2 (mDC2)	CD1C
+Blood	mDC type 2 (mDC2)	CLEC10A
+Blood	Granulocytes(granulo)	S100A8
+Blood	Granulocytes(granulo)	S100A9
+Blood	Blood-derived monocyte cells(Mono1)	FCGR3A
+Blood	Blood-derived monocyte cells(Mono2)	CD16
+Blood	Plasmacytoid dendritic cells(pDC)	TCF4
+Blood	Plasmacytoid dendritic cells(pDC)	E2-2
+Blood	Plasmacytoid dendritic cells(pDC)	DR6
+Blood	Plasmacytoid dendritic cells(pDC)	TNFRSF21
+Blood	T-cell 2(TC2)	TRAC
+Bone-Marrow	CD4+ naive T	CCR7
+Bone-Marrow	CD4+ naive T	ITGA2
+Bone-Marrow	CD4+ naive T	CD49B
+Bone-Marrow	CD14+ monocytes	CD14
+Bone-Marrow	CD20+ B	MS4A1
+Bone-Marrow	CD20+ B	CD20
+Bone-Marrow	NK	EOMES
+Bone-Marrow	NK	PRF1
+Bone-Marrow	NK	NKG7
+Bone-Marrow	NK	KIR
+Bone-Marrow	CD16+ monocytes	FCGR3A
+Bone-Marrow	CD16+ monocytes	CD16
+Bone-Marrow	Dendritic	CLEC4C
+Bone-Marrow	Dendritic	IL3RA
+Bone-Marrow	Dendritic	NRP1
+Bone-Marrow	Monocyte progenitors	CD38
+Bone-Marrow	Monocyte progenitors	CD34
+Bone-Marrow	Monocyte progenitors	CD123
+Bone-Marrow	Monocyte progenitors	IL3RA
+Bone-Marrow	Plasmacytoid dendritic	GZMB
+Bone-Marrow	Plasmacytoid dendritic	IL3RA
+Bone-Marrow	Plasmacytoid dendritic	CD123
+Bone-Marrow	Plasma	SDC1
+Bone-Marrow	Plasma	CD138
+Bone-Marrow	Plasma	CD319
+Bone-Marrow	Plasma	SLAMF7
+Brain	Endothelial	CLDN5
+Brain	Endothelial	VTN
+Brain	Astrocytes	GLUL
+Brain	Astrocytes	SOX9
+Brain	Astrocytes	AQP4
+Brain	Astrocytes	GJA1
+Brain	Astrocytes	NDRG2
+Brain	Astrocytes	GFAP
+Brain	Astrocytes	ALDH1A1
+Brain	Astrocytes	ALDH1L1
+Brain	Astrocytes	VIM
+Brain	OPCs	PTGDS
+Brain	OPCs	PDGFRA
+Brain	OPCs	PCDH15
+Brain	OPCs	OLIG2
+Brain	OPCs	OLIG1
+Brain	Oligodendrocytes	PLP1
+Brain	Oligodendrocytes	MAG
+Brain	Oligodendrocytes	MOG
+Brain	Oligodendrocytes	MOBP
+Brain	Oligodendrocytes	MBP
+Brain	Excitatory neurons	SATB2
+Brain	Excitatory neurons	SLC17A7
+Brain	Excitatory neurons	SLC17A6
+Brain	Excitatory neurons	NRGN
+Brain	Inhibitory neurons	GAD1
+Brain	Inhibitory neurons	GAD2
+Brain	Inhibitory neurons	SLC32A1
+Heart	Fibroblasts	DCN
+Heart	Fibroblasts	GSN
+Heart	Fibroblasts	PDGFRA
+Heart	Pericytes	RGS5
+Heart	Pericytes	ABCC9
+Heart	Pericytes	KCNJ8
+Heart	Adipocytes	GPAM
+Heart	Adipocytes	FASN
+Heart	Adipocytes	LEP
+Heart	Smooth muscle	MYH11
+Heart	Smooth muscle	TAGLN
+Heart	Smooth muscle	ACTA2
+Heart	Endothelial	VWF
+Heart	Endothelial	PECAM1
+Heart	Endothelial	CDH5
+Heart	Neuronal	PLP1
+Heart	Neuronal	NRXN1
+Heart	Neuronal	NRXN3
+Heart	Atrial cardiomyocytes	NPPA
+Heart	Atrial cardiomyocytes	MYL7
+Heart	Atrial cardiomyocytes	MYL4
+Heart	Myeloid	CD14
+Heart	Myeloid	C1QA
+Heart	Myeloid	CD68
+Heart	Lymphoid	CD8A
+Heart	Lymphoid	IL7R
+Heart	Lymphoid	CD40LG
+Heart	Ventricular cardiomyocytes	MYH7
+Heart	Ventricular cardiomyocytes	MYL2
+Heart	Ventricular cardiomyocytes	FHL2
+Intestine	Epithelial cells	EPCAM
+Intestine	Endothelial cells	PECAM1
+Intestine	Endothelial cells	CDH5
+Intestine	B cells	MS4A1
+Intestine	B cells	CD19
+Intestine	Plasma cells	SDC1
+Intestine	T cells	CD3D
+Intestine	Glial cells	FOXD3
+Intestine	Glial cells	MPZ
+Intestine	Glial cells	CDH19
+Intestine	Glial cells	PLP1
+Intestine	Glial cells	SOX10
+Intestine	Glial cells	S100B
+Intestine	Glial cells	ERBB3
+Intestine	Goblet cells	CLCA1
+Intestine	Goblet cells	SPDEF
+Intestine	Goblet cells	FCGBP
+Intestine	Goblet cells	ZG16
+Intestine	Goblet cells	MUC2
+Intestine	Monocytes	FCN1
+Intestine	Monocytes	S100A4
+Intestine	Monocytes	S100A6
+Intestine	Paneth	DEFA5
+Intestine	Paneth	DEFA6
+Intestine	Paneth	REG3A
+Intestine	Pericytes	NOTCH3
+Intestine	Pericytes	MCAM/CD146
+Intestine	Pericytes	RGS5
+Kidney	Proximal(PT2)	SLC13A3
+Kidney	Proximal(PT2)	SLC34A1
+Kidney	Proximal_convoluted(PT1)	SLC17A3
+Kidney	Proximal_convoluted(PT1)	SLC22A8
+Kidney	Proximal_straight(PT3)	SLC7A13
+Kidney	Proximal_straight(PT3)	SLC16A9
+Kidney	Proximal_straight(PT3)	SLC22A7
+Kidney	Loop of Henle(H)	CLDN16
+Kidney	Loop of Henle(H)	SLC12A1
+Kidney	Distal(D)	AVPR2
+Kidney	Distal(D)	SLC8A1
+Kidney	Distal(D)	KCNJ1
+Kidney	Collecting_duct_A(C2)	SLC26A4
+Kidney	Collecting_duct_B(C1)	SLC4A1
+Kidney	Vascular	PECAM1
+Kidney	Vascular	PTPRB
+Kidney	Vascular	KDR
+Kidney	Vascular	VCAM1
+Kidney	Vascular	AQP1
+Kidney	Vascular	SEMA3G
+Kidney	Vascular	CLDN5
+Kidney	Vascular	SLC14A1
+Kidney	Vascular	PLVAP
+Liver	B cells	IGKC
+Liver	B cells	MZB1
+Liver	Kupffer cells	CD163
+Liver	Kupffer cells	MAFB
+Liver	Kupffer cells	VSIG4
+Liver	NK,NKT,T cells	KLRB1
+Liver	NK,NKT,T cells	CD8A
+Liver	NK,NKT,T cells	PTPRC
+Liver	NK,NKT,T cells	CD3E
+Liver	Liver sinusoidal endothelial cells	CLEC4G
+Liver	Liver sinusoidal endothelial cells	CLEC4M
+Liver	Liver sinusoidal endothelial cells	FLT1
+Liver	Hepatocytes	ALB
+Liver	Hepatocytes	CYP3A4
+Liver	Hepatocytes	CYP2E1
+Liver	Hepatocytes	PCK1
+Liver	Hepatocytes	HP
+Liver	EPCAM+ cells and Cholangiocytes	EPCAM
+Liver	EPCAM+ cells and Cholangiocytes	KRT7
+Liver	Stellate cells and Myofibroblasts	COL3A1
+Liver	Stellate cells and Myofibroblasts	CYGB
+Lung	B	MS4A1
+Lung	B	CD79A
+Lung	B	IGKC
+Lung	B	IGLC3
+Lung	B	IGHG3
+Lung	Mast	TPSB2
+Lung	Endothelial/Lymphatic	VWF
+Lung	Endothelial/Lymphatic	CLDN5
+Lung	Endothelial/Lymphatic	FLT1
+Lung	Endothelial/Lymphatic	CDH5
+Lung	Endothelial/Lymphatic	RAMP2
+Lung	Fibroblasts	DCN
+Lung	Fibroblasts	COL1A1
+Lung	Fibroblasts	COL1A2
+Lung	Fibroblasts	C1R
+Lung	Alveolar	CLDN18
+Lung	Alveolar	FOLR1
+Lung	Alveolar	AQP4
+Lung	Epithelial	CAPS
+Lung	Epithelial	TMEM190
+Lung	Epithelial	PIFO
+Lung	Epithelial	SNTN
+Lung	Myeloid	LYZ
+Lung	Myeloid	MARCO
+Lung	Myeloid	CD68
+Lung	Myeloid	FCGR3A
+Lung	T	CD3D
+Lung	T	TRBC1
+Lung	T	TRBC2
+Lung	T	TRAC
+Oesphage	B CD27neg	CD19
+Oesphage	B CD27neg	CD79A
+Oesphage	B CD27neg	IGHD
+Oesphage	B CD27neg	FCER2
+Oesphage	B CD27neg	TCL1A
+Oesphage	B CD27pos	CD19
+Oesphage	B CD27pos	CD79A
+Oesphage	B CD27pos	CD27
+Oesphage	B CD27pos	TNFRSF13B
+Oesphage	Blood vessel	PECAM1
+Oesphage	Blood vessel	CLEC14A
+Oesphage	Blood vessel	VWF
+Oesphage	Epithelial_dividing(Epi_dividing)	MKI67
+Oesphage	Epithelial_stratified(Epi_stratified)	KRT4
+Oesphage	Epithelial_suprabasal(Epi_suprabasal)	KRT5
+Oesphage	Epithelial_suprabasal(Epi_suprabasal)	SCPEP1
+Oesphage	Epithelial_suprabasal(Epi_suprabasal)	ITGA6
+Oesphage	Epithelial_upper(Epi_upper)	ECM1
+Oesphage	Epithelial_upper(Epi_upper)	KRT4
+Oesphage	Lymph_vessel	CCL21
+Oesphage	Mast_cell	TPSB2
+Oesphage	Mono_macro	CD14
+Oesphage	Mono_macro	VCAN
+Oesphage	Mono_macro	FCN1
+Oesphage	Stroma	DCN
+Oesphage	Stroma	COL1A2
+Oesphage	Stroma	FBLN1
+Oesphage	T_CD4	CD3E
+Oesphage	T_CD4	CD4
+Oesphage	T_CD8	CD3E
+Oesphage	T_CD8	CD8A
+Pancreas	Ductal	CFTR
+Pancreas	Ductal	ANXA4
+Pancreas	Ductal	SLC4A4
+Pancreas	Alpha	GCG
+Pancreas	Beta	INS
+Pancreas	Beta	PPY
+Pancreas	Delta	SST
+Pancreas	Endothelial	FLT1
+Pancreas	Endothelial	VWF
+Pancreas	Endothelial	CD36
+Pancreas	Endothelial	SLCO2A1
+Pancreas	Endothelial	PLVAP
+Pancreas	Macrophages	CD74
+Pancreas	Macrophages	PTPRC
+Pancreas	Macrophages	ZEB2
+Pancreas	Macrophages	HLA-DRA
+Pancreas	Macrophages	HLA-DRB1
+Pancreas	Macrophages	HLA-DPA1
+Pancreas	Activated Stellate	COL4A1
+Pancreas	Activated Stellate	COL4A2
+Pancreas	Activated Stellate	COL5A2
+Pancreas	Activated Stellate	COL6A3
+Pancreas	Activated Stellate	LAMA2
+Pancreas	Activated Stellate	Lamb1
+Pancreas	Activated Stellate	Slit2
+Pancreas	Activated Stellate	Lum
+Pancreas	Acinar-s	PNLIP
+Pancreas	Acinar-i	PRSS1
+Pancreas	Acinar-i	PRSS3
+Pancreas	Acinar-i	CEL
+Pancreas	Acinar-i	CELA2B
+Pancreas	Acinar-i	CELA2B
+Pancreas	Acinar-i	CELA3A
+Pancreas	Acinar-i	CELA3B
+Pancreas	Acinar-i	AMY2A
+Pancreas	Acinar-i	AMY2B
+Pancreas	Acinar-i	CPA1
+Pancreas	Acinar-i	CPA2
+Pancreas	Acinar-i	CPB1
+Pancreas	Acinar-i	CTRB1
+Pancreas	Acinar-i	CTRB2
+Pancreas	Acinar-i	CLPS
+Pancreas	Acinar-i	PLA2G1B
+Pancreas	Acinar-i	SPINK1
+Pancreas	Acinar-i	KLK1
+Pancreas	Acinar-i	RNASE1
+Pancreas	Acinar-i	CTRC
+Pancreas	Acinar-i	SYCN
+Prostate	Lum Acinar	MSMB
+Prostate	Lum Acinar	MME
+Prostate	Lum Ductal	KRT7
+Prostate	Lum Ductal	RARRES1
+Prostate	PrU-like	LY6D
+Prostate	PrU-like	AQP3
+Prostate	Basal	KRT14
+Prostate	Basal	KRT5
+Prostate	Macrophages	CD68
+Prostate	T cells	CD3D
+Retina	Monocytes	CD74
+Retina	Monocytes	CD14
+Retina	Mueller glia	CRABP1
+Retina	Mueller glia	DKK3
+Retina	Mueller glia	RLBP1
+Retina	Mueller glia	CRALBP
+Retina	Retinal GA	SNCG
+Retina	Retinal GA	GAP43
+Retina	Retinal GA	NEFL
+Retina	Retinal GA	POU4F1
+Retina	Rod PR	PDE6A
+Retina	Rod PR	CNGA1
+Retina	Rod PR	RHO
+Retina	Cone PR	ARR3
+Retina	Cone PR	GNGT2
+Retina	Cone PR	GUCA1C
+Retina	Retinal AS	GFAP
+Retina	Bipolar	VSX2
+Retina	Bipolar	OTX2
+Retina	Amacrine	GAD1
+Retina	Amacrine	CALB1
+Retina	Amacrine	CHAT
+Retina	Horizontal	ONECUT1
+Retina	Horizontal	ONECUT2
+Skeletal-Muscle	Adipocytes	CXCL14
+Skeletal-Muscle	Adipocytes	GPX3
+Skeletal-Muscle	Adipocytes	GLUL
+Skeletal-Muscle	Fibroblast 1	COL1A1
+Skeletal-Muscle	Fibroblast 1	SFRP4
+Skeletal-Muscle	Fibroblast 1	SERPINE1
+Skeletal-Muscle	Fibroblast 1	CCL2
+Skeletal-Muscle	Fibroblast 2	FBN1
+Skeletal-Muscle	Fibroblast 2	MFAP5
+Skeletal-Muscle	Fibroblast 2	CD55
+Skeletal-Muscle	Fibroblast 3	SMOC2
+Skeletal-Muscle	Pericytes and Smooth muscle cells	RGS5
+Skeletal-Muscle	Pericytes and Smooth muscle cells	MYH11
+Skeletal-Muscle	Endothelial 2	CLDN5
+Skeletal-Muscle	Endothelial 2	ICAM2
+Skeletal-Muscle	Endothelial 2	CXCL2
+Skeletal-Muscle	Endothelial 3	VWF
+Skeletal-Muscle	Endothelial 3	CAV1
+Skeletal-Muscle	Tissue-resident macrophages	CD74
+Skeletal-Muscle	Tissue-resident macrophages	HLA
+Skeletal-Muscle	Inflammatory macrophages and monocytes	S100A9
+Skeletal-Muscle	Inflammatory macrophages and monocytes	LYZ
+Skeletal-Muscle	MuSC1 and progenitors 1	PAX7
+Skeletal-Muscle	MuSC1 and progenitors 1	CHRDL2
+Skeletal-Muscle	MuSC1 and progenitors 1	DLK1
+Skeletal-Muscle	MuSC2 and progenitors 2	MYF5
+Skeletal-Muscle	MuSC2 and progenitors 2	APOC1
+Skeletal-Muscle	B/T/NK cells	IL7R
+Skeletal-Muscle	B/T/NK cells	NKG7
+Skeletal-Muscle	Myonuclei	MYLFP
+Skeletal-Muscle	Myonuclei	ATCA1
+Skeletal-Muscle	Myonuclei	TNNC2
+Skin	Basal cell(BC)	KRT14
+Skin	Mitotic cell (MC)	MKI67
+Skin	Vellus hair follicle cell (VHF)	SOX9
+Skin	Vellus hair follicle cell (VHF)	KRT6B
+Skin	Vellus hair follicle cell (VHF)	SFRP1
+Skin	Melanocyte (ME)	TYR
+Skin	Melanocyte (ME)	DCT
+Skin	Spinous cell(SC)	KRT10
+Skin	Granular cell(GC)	FLG
+Skin	Endothelial cell (EC)	CLDN5
+Skin	Immune cell (IC)	PTPRC
+Skin	Fibroblast (FB)	PDGFRA
+Skin	Pericyte (PT)	RGS5
+Skin	Pericyte (PT)	PDGFRB
+Skin	Orbicularis oculi muscle (OOM)	CKM
+Stomach	Gastric epithelium	MUC5AC
+Stomach	Gastric epithelium	PGC
+Stomach	Gastric epithelium	MUC6
+Stomach	Gastric epithelium	TFF1
+Stomach	Fibroblasts/myofibroblasts	LUM
+Stomach	Fibroblasts/myofibroblasts	DCN
+Stomach	Fibroblasts/myofibroblasts	COL1A1
+Stomach	Fibroblasts/myofibroblasts	COL14A1
+Stomach	Fibroblasts/myofibroblasts	CAV1
+Stomach	Fibroblasts/myofibroblasts	THY1
+Stomach	Smooth muscle/myofibroblasts	ACTA2
+Stomach	B-cells	CD79
+Stomach	B-cells	CD19
+Stomach	B-cells	MS4A1
+Stomach	plasma cells	SDC1
+Stomach	Monocytes/macrophages	CD14
+Stomach	Monocytes/macrophages	FCGR3A
+Stomach	T-cells	CD3D
+Stomach	T-cells	CD3E
+Stomach	T-cells	CD3G
+Stomach	Dendritic cells	IL3RA
+Stomach	Dendritic cells	CLEC4C
+Stomach	Dendritic cells	HLA-DQA2
+Stomach	Dendritic cells	ID2
+Stomach	Dendritic cells	IRF4
+Stomach	Dendritic cells	CD83
+Testis	Spermatogonia	FGFR3
+Testis	Spermatocytes	SYCP3
+Testis	Spermatids	TNP1
+Testis	Endotheliocytes	VWF
+Testis	PTM cells	MYH11
+Testis	Soma precursor 	NR2F2
+Testis	Leydig	DLK1
+Testis	Sertoli	AMH
+Testis	Germ cells	DAZL
+Testis	Macrophage	CD4
+Testis	Kidney	CYSTM1
