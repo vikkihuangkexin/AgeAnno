@@ -20,7 +20,7 @@ We also identified gene-drug or gene-chemical interactions and related diseases 
 
 Data legend:
 
-scRNA:
+~/scRNA/:
 
 scRNAmarker: cell-type specific marker genes  
 Aging-related DEG.txt: aging-related differential expressed genes  
@@ -29,14 +29,14 @@ Pathways.txt: aging-related GO pathways
 cell_cell_communication.txt: results of cell-cell interaction analysis  
 TF regulon.txt: TF and target genes by using SCENIC  
 
-scATAC:
+~/scATAC/:
 
 scATACmarker.txt: cell-type specific marker peaks  
 Aging-related DAR.txt: aging-related differentially accessibile regions  
 coAccessiblity.txt: results of co-accessibility analysis  
 motif-TF.txt: results of motif/TF enrichment analysis  
 
-Disease&Drug:
+~/Disease&Drug/:
 
 Related diseases.rar: related diseases for aging-related genes  
 Related drugs.rar: related drugs and chemicals for aging-related genes  
