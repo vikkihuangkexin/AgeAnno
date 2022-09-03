@@ -4,7 +4,7 @@ scAgeAnno: A knowledgebase of single-cell annotation of aging in human
 Kexin Huang, Hoaran Gong, Jingjing Guan, Lingxiao Zhang, Changbao Hu, Weiling Zhao, Liyu Huang, Wei Zhang, Pora Kim, Xiaobo Zhou
 
 
-Database introduction:
+# Database introduction:
 
 scAgeAnno annotated 5 580 aging-related genes collected from six public resources based on 1 678 610 cells from 28 healthy tissue samples with ages ranging from 0 to 110 years.
 For scRNA data, first, we performed differential gene expression analysis for aging-related genes (DEGs) in each cell type and identified tissue- and cell-type-specific DEGs between different age groups. 
@@ -18,7 +18,7 @@ We also identified gene-drug or gene-chemical interactions and related diseases 
 
 
 
-Data legend:
+# Data legend:
 
 ~/scRNA/:
 
