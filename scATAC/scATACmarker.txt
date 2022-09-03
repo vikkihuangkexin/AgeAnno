@@ -1,0 +1,180 @@
+Tissue	group_name	seqnames	start	end	strand	name
+Adipose-Visceral	Adipocytes	chr7	128241284	128257628	-	LEP
+Adipose-Visceral	Adipocytes	chr3	186842690	186858463	-	ADIPOQ
+Adipose-Visceral	Adipocytes	chr3	9880254	9866711	+	CIDEC
+Adipose-Visceral	Endothelial Cells	chr12	6124770	5948874	+	VWF
+Adipose-Visceral	Endothelial Cells	chr9	136658856	136672678	-	EGFL7
+Adipose-Visceral	Endothelial Cells	chr22	19527545	19523024	+	CLDN5
+Adipose-Visceral	Fibroblasts	chr12	91183123	91140484	+	DCN
+Adipose-Visceral	Fibroblasts	chr12	91111831	91102629	+	LUM
+Adipose-Visceral	Fibroblasts	chr1	53062052	53085502	-	PODN
+Adipose-Visceral	Mesothelial Cells	chr19	51723994	51713112	+	HAS1
+Adipose-Visceral	Mesothelial Cells	chr11	32435630	32387775	+	WT1
+Adipose-Visceral	Mural Cells	chr1	34792998	34795747	-	GJA4
+Adipose-Visceral	Mural Cells	chr17	44846353	44850480	-	HIGD1B
+Adipose-Visceral	Myeloid / Macrophage	chr1	22652762	22661538	-	C1QB
+Adipose-Visceral	Myeloid / Macrophage	chr1	22643630	22648110	-	C1QC
+Adipose-Visceral	Myeloid / Macrophage	chr1	22636506	22639608	-	C1QA
+Adipose-Visceral	T Lymphocyte	chr12	68159747	68154768	+	IFNG
+Adipose-Visceral	T Lymphocyte	chr5	55102648	55110252	-	GZMA
+Artery-Aorta	Endothelial Cells	chr9	136658856	136672678	-	EGFL7
+Artery-Aorta	Endothelial Cells	chr12	6124770	5948874	+	VWF
+Artery-Aorta	Endothelial Cells	chr22	19527545	19523024	+	CLDN5
+Artery-Aorta	Fibroblasts	chr12	91183123	91140484	+	DCN
+Artery-Aorta	Fibroblasts	chr1	53062052	53085502	-	PODN
+Artery-Aorta	Fibroblasts	chr12	91111831	91102629	+	LUM
+Artery-Aorta	Myeloid / Macrophage	chr1	22643630	22648110	-	C1QC
+Artery-Aorta	Myeloid / Macrophage	chr1	22636506	22639608	-	C1QA
+Artery-Aorta	Myeloid / Macrophage	chr1	22652762	22661538	-	C1QB
+Artery-Aorta	T Lymphocyte	chr11	118342744	118338954	+	CD3D
+Artery-Aorta	T Lymphocyte	chr5	55102648	55110252	-	GZMA
+Artery-Aorta	T Lymphocyte	chr12	68159747	68154768	+	IFNG
+Artery-Aorta	Vascular Smooth Muscle Cells	chr3	123884331	123610049	+	MYLK
+Artery-Aorta	Vascular Smooth Muscle Cells	chr16	86567251	86569728	-	FOXC2
+Brain	Astrocytes	chr18	7117814	6941744	+	LAMA1
+Brain	Astrocytes	chr3	13880121	13816258	+	WNT7A
+Brain	Endothelial Cells	chr9	136658856	136672678	-	EGFL7
+Brain	Endothelial Cells	chr22	19527545	19523024	+	CLDN5
+Brain	Myeloid / Macrophage	chr1	22652762	22661538	-	C1QB
+Brain	Myeloid / Macrophage	chr1	22643630	22648110	-	C1QC
+Brain	Myeloid / Macrophage	chr1	22636506	22639608	-	C1QA
+Brain	Neurons	chr5	150290291	150219491	+	CAMK2A
+Brain	Neurons	chr5	63962133	63960356	+	HTR1A
+Brain	Neurons	chr6	152750798	152759765	-	VIP
+Brain	Oligo Precursor	chr21	29940033	29536933	+	GRIK1
+Brain	Oligo Precursor	chr2	170813213	170861151	-	GAD1
+Brain	Oligodendrocytes	chr2	95025677	95053996	-	MAL
+Brain	Oligodendrocytes	chr18	77133683	76978827	+	MBP
+Colon-Sigmoid	Endothelial Cells	chr12	6124770	5948874	+	VWF
+Colon-Sigmoid	Endothelial Cells	chr9	136658856	136672678	-	EGFL7
+Colon-Sigmoid	Endothelial Cells	chr22	19527545	19523024	+	CLDN5
+Colon-Sigmoid	Fibroblasts	chr12	91183123	91140484	+	DCN
+Colon-Sigmoid	Fibroblasts	chr12	91111831	91102629	+	LUM
+Colon-Sigmoid	Fibroblasts	chr1	53062052	53085502	-	PODN
+Colon-Sigmoid	Myeloid / Macrophage	chr1	22652762	22661538	-	C1QB
+Colon-Sigmoid	Myeloid / Macrophage	chr1	22643630	22648110	-	C1QC
+Colon-Sigmoid	Myeloid / Macrophage	chr1	22636506	22639608	-	C1QA
+Colon-Sigmoid	PNC-Derived Cells	chr22	37987422	37970686	+	SOX10
+Colon-Sigmoid	PNC-Derived Cells	chrX	153909223	153861514	+	L1CAM
+Colon-Sigmoid	PNC-Derived Cells	chr11	15112424	15247208	-	INSC
+Colon-Sigmoid	Stromal Smooth Muscle Cells	chr2	73892314	73919865	-	ACTG2
+Colon-Sigmoid	Stromal Smooth Muscle Cells	chr6	1389834	1395597	-	FOXF2
+Colon-Transverse	B Lymphocyte	chr1	157552520	157513377	+	FCRL5
+Colon-Transverse	B Lymphocyte	chr10	17228259	17237593	-	VIM
+Colon-Transverse	B Lymphocyte	chr12	6444867	6451718	-	CD27
+Colon-Transverse	Endothelial Cells	chr12	6124770	5948874	+	VWF
+Colon-Transverse	Endothelial Cells	chr22	19527545	19523024	+	CLDN5
+Colon-Transverse	Endothelial Cells	chr9	136658856	136672678	-	EGFL7
+Colon-Transverse	Fibroblasts	chr1	53062052	53085502	-	PODN
+Colon-Transverse	Fibroblasts	chr12	91183123	91140484	+	DCN
+Colon-Transverse	Fibroblasts	chr12	91111831	91102629	+	LUM
+Colon-Transverse	Gastrointestinal Epithelial Cells	chr5	180988845	181006727	-	BTNL3
+Colon-Transverse	Gastrointestinal Epithelial Cells	chr17	40885227	40875941	+	KRT20
+Colon-Transverse	Gastrointestinal Epithelial Cells	chr2	232456123	232460032	-	ALPI
+Colon-Transverse	Stromal Smooth Muscle Cells	chr2	73892314	73919865	-	ACTG2
+Colon-Transverse	Stromal Smooth Muscle Cells	chr6	1389834	1395597	-	FOXF2
+Colon-Transverse	Stromal Smooth Muscle Cells	chr10	99532933	99536524	-	NKX2-3
+Colon-Transverse	T Lymphocyte	chr12	68159747	68154768	+	IFNG
+Colon-Transverse	T Lymphocyte	chr5	55102648	55110252	-	GZMA
+Colon-Transverse	T Lymphocyte	chr11	118342744	118338954	+	CD3D
+Esophagus-Muscularis	Endothelial Cells	chr12	6124770	5948874	+	VWF
+Esophagus-Muscularis	Endothelial Cells	chr9	136658856	136672678	-	EGFL7
+Esophagus-Muscularis	Endothelial Cells	chr22	19527545	19523024	+	CLDN5
+Esophagus-Muscularis	Fibroblasts	chr12	91183123	91140484	+	DCN
+Esophagus-Muscularis	Fibroblasts	chr1	53062052	53085502	-	PODN
+Esophagus-Muscularis	Fibroblasts	chr12	91111831	91102629	+	LUM
+Esophagus-Muscularis	Mast Cells	chr15	50266026	50241947	+	HDC
+Esophagus-Muscularis	Mast Cells	chrX	48786554	48794311	-	GATA1
+Esophagus-Muscularis	Mast Cells	chr11	19060681	19054455	+	MRGPRX2
+Esophagus-Muscularis	Mural Cells	chr1	34792998	34795747	-	GJA4
+Esophagus-Muscularis	Mural Cells	chr17	44846353	44850480	-	HIGD1B
+Esophagus-Muscularis	Myeloid / Macrophage	chr1	22652762	22661538	-	C1QB
+Esophagus-Muscularis	Myeloid / Macrophage	chr1	22643630	22648110	-	C1QC
+Esophagus-Muscularis	Myeloid / Macrophage	chr1	22636506	22639608	-	C1QA
+Esophagus-Muscularis	PNC-Derived Cells	chr22	37987422	37970686	+	SOX10
+Esophagus-Muscularis	PNC-Derived Cells	chrX	153909223	153861514	+	L1CAM
+Esophagus-Muscularis	PNC-Derived Cells	chr11	15112424	15247208	-	INSC
+Esophagus-Muscularis	Stromal Smooth Muscle Cells	chr2	73892314	73919865	-	ACTG2
+Esophagus-Muscularis	Stromal Smooth Muscle Cells	chr6	1389834	1395597	-	FOXF2
+Esophagus-Muscularis	T Lymphocyte	chr11	118342744	118338954	+	CD3D
+Esophagus-Muscularis	T Lymphocyte	chr5	55102648	55110252	-	GZMA
+Esophagus-Muscularis	T Lymphocyte	chr12	68159747	68154768	+	IFNG
+Lung	Endothelial Cells	chr9	136658856	136672678	-	EGFL7
+Lung	Endothelial Cells	chr12	6124770	5948874	+	VWF
+Lung	Endothelial Cells	chr22	19527545	19523024	+	CLDN5
+Lung	Fibroblasts	chr12	91183123	91140484	+	DCN
+Lung	Fibroblasts	chr1	53062052	53085502	-	PODN
+Lung	Fibroblasts	chr12	91111831	91102629	+	LUM
+Lung	Myeloid / Macrophage	chr1	22652762	22661538	-	C1QB
+Lung	Myeloid / Macrophage	chr1	22643630	22648110	-	C1QC
+Lung	Myeloid / Macrophage	chr1	22636506	22639608	-	C1QA
+Lung	Pulmonary Epithelial Cells	chr2	85668741	85657314	+	SFTPB
+Lung	Pulmonary Epithelial Cells	chr10	79982614	79937740	+	SFTPD
+Lung	Pulmonary Epithelial Cells	chr8	22158724	22164479	-	SFTPC
+Lung	T Lymphocyte	chr11	118342744	118338954	+	CD3D
+Lung	T Lymphocyte	chr12	68159747	68154768	+	IFNG
+Lung	T Lymphocyte	chr5	55102648	55110252	-	GZMA
+Pancreas	Acinar Cells	chr7	130380339	130388114	-	CPA1
+Pancreas	Acinar Cells	chr7	142749468	142763997	-	PRSS1
+Pancreas	Acinar Cells	chr2	79120362	79123419	-	REG1A
+Pancreas	Ductal Cells	chr13	27920020	27926231	-	PDX1
+Pancreas	Endothelial Cells	chr12	6124770	5948874	+	VWF
+Pancreas	Endothelial Cells	chr9	136658856	136672678	-	EGFL7
+Pancreas	Endothelial Cells	chr22	19527545	19523024	+	CLDN5
+Pancreas	Fibroblasts	chr12	91183123	91140484	+	DCN
+Pancreas	Fibroblasts	chr12	91111831	91102629	+	LUM
+Pancreas	Fibroblasts	chr1	53062052	53085502	-	PODN
+Pancreas	Myeloid / Macrophage	chr1	22643630	22648110	-	C1QC
+Pancreas	Myeloid / Macrophage	chr1	22652762	22661538	-	C1QB
+Pancreas	Myeloid / Macrophage	chr1	22636506	22639608	-	C1QA
+Pancreas	Neuroendocrine Cells	chr11	2161341	2159779	+	INS
+Pancreas	Neuroendocrine Cells	chr2	162152404	162142873	+	GCG
+Pancreas	T Lymphocyte	chr11	118342744	118338954	+	CD3D
+Pancreas	T Lymphocyte	chr5	55102648	55110252	-	GZMA
+Pancreas	T Lymphocyte	chr12	68159747	68154768	+	IFNG
+Skeletal-Muscle	Endothelial Cells	chr12	6124770	5948874	+	VWF
+Skeletal-Muscle	Endothelial Cells	chr9	136658856	136672678	-	EGFL7
+Skeletal-Muscle	Endothelial Cells	chr22	19527545	19523024	+	CLDN5
+Skeletal-Muscle	Fibroblasts	chr12	91183123	91140484	+	DCN
+Skeletal-Muscle	Fibroblasts	chr1	53062052	53085502	-	PODN
+Skeletal-Muscle	Fibroblasts	chr12	91111831	91102629	+	LUM
+Skeletal-Muscle	Satellite Cells	chr1	18631006	18748866	-	PAX7
+Skeletal-Muscle	Satellite Cells	chr12	80716912	80719673	-	MYF5
+Skeletal-Muscle	Skeletal Myocyte	chr19	38433699	38587564	-	RYR1
+Skeletal-Muscle	Skeletal Myocyte	chr1	203086036	203083132	+	MYOG
+Skeletal-Muscle	Skeletal Myocyte	chr2	210315190	210290150	+	MYL1
+Skin	Endothelial Cells	chr12	6124770	5948874	+	VWF
+Skin	Endothelial Cells	chr9	136658856	136672678	-	EGFL7
+Skin	Endothelial Cells	chr22	19527545	19523024	+	CLDN5
+Skin	Fibroblasts	chr12	91183123	91140484	+	DCN
+Skin	Fibroblasts	chr12	91111831	91102629	+	LUM
+Skin	Fibroblasts	chr1	53062052	53085502	-	PODN
+Skin	Keratinocytes	chr19	15049384	15058293	-	CASP14
+Skin	Keratinocytes	chr19	38773492	38770971	+	LGALS7
+Skin	Luminal Epithelial Cells	chr7	143132077	143139746	-	PIP
+Skin	Mural Cells	chr1	34792998	34795747	-	GJA4
+Skin	Mural Cells	chr17	44846353	44850480	-	HIGD1B
+Skin	Myoepithelial Cells	chr11	68684475	68691175	-	GAL
+Skin	Myoepithelial Cells	chr20	37261835	37251082	+	GHRH
+Skin	PNC-Derived Cells	chr22	37987422	37970686	+	SOX10
+Skin	PNC-Derived Cells	chrX	153909223	153861514	+	L1CAM
+Skin	T Lymphocyte	chr11	118342744	118338954	+	CD3D
+Skin	T Lymphocyte	chr5	55102648	55110252	-	GZMA
+Skin	T Lymphocyte	chr12	68159747	68154768	+	IFNG
+Stomach	B Lymphocyte	chr4	15778275	15853230	-	CD38
+Stomach	B Lymphocyte	chr12	6444867	6451718	-	CD27
+Stomach	B Lymphocyte	chr11	60455752	60470760	-	MS4A1
+Stomach	Chief Cells	chr11	61203307	61213098	-	PGA3
+Stomach	Chief Cells	chr10	88664441	88678814	-	LIPF
+Stomach	Fibroblasts	chr12	91111831	91102629	+	LUM
+Stomach	Fibroblasts	chr12	91183123	91140484	+	DCN
+Stomach	Fibroblasts	chr1	53062052	53085502	-	PODN
+Stomach	Gastric Neuroendocrine	chr12	113472072	113462034	+	LHX5
+Stomach	Gastric Neuroendocrine	chr3	10292947	10285675	+	GHRL
+Stomach	Myeloid / Macrophage	chr1	22643630	22648110	-	C1QC
+Stomach	Myeloid / Macrophage	chr1	22652762	22661538	-	C1QB
+Stomach	Myeloid / Macrophage	chr1	22636506	22639608	-	C1QA
+Stomach	Parietal Cells	chr13	113658186	113648804	+	ATP4B
+Stomach	T Lymphocyte	chr5	55102648	55110252	-	GZMA
+Stomach	T Lymphocyte	chr11	118342744	118338954	+	CD3D
+Stomach	T Lymphocyte	chr12	68159747	68154768	+	IFNG
