@@ -1,14 +1,14 @@
-# scAgeAnno
+# AgeAnno
 
 Citation:  
-scAgeAnno: A knowledgebase of single-cell annotation of aging in human
+AgeAnno: A knowledgebase of single-cell annotation of aging in human
 
 Kexin Huang, Hoaran Gong, Jingjing Guan, Lingxiao Zhang, Changbao Hu, Weiling Zhao, Liyu Huang, Wei Zhang, Pora Kim, Xiaobo Zhou
 
 
 # Database introduction:
 
-scAgeAnno annotated 5 580 aging-related genes collected from six public resources based on 1 678 610 cells from 28 healthy tissue samples with ages ranging from 0 to 110 years.
+AgeAnno annotated 5 580 aging-related genes collected from six public resources based on 1 678 610 cells from 28 healthy tissue samples with ages ranging from 0 to 110 years.
 For scRNA data, first, we performed differential gene expression analysis for aging-related genes (DEGs) in each cell type and identified tissue- and cell-type-specific DEGs between different age groups. 
 Then, we annotated aging-related DEGs into three aging-related biological categories, including immune genes, telomere maintenance genes, and circadian genes. 
 To better understand the potential mechanisms of aging-related genes, we performed enrichment analysis and transcriptomic variation analysis to determine aging effect on gene transcriptional noise; 
