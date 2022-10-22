@@ -20,6 +20,8 @@ For scATAC data, we identified differential accessible regions (DARs) between ag
 Then, we performed motif/TF enrichment analysis, footprint analysis, and co-accessibility peak analysis to provide functional annotations for aging-related DARs. 
 We also identified gene-drug or gene-chemical interactions and related diseases for aging genes. 
 
+The processed rds file for scRNA data were provided in Google Drive (https://drive.google.com/drive/folders/160i9KmFJ0tEYP2QBT5IjbJqhqvuu5rBW?usp=sharing).
+
 
 
 # Data legend:
