@@ -1,11 +1,10 @@
 # AgeAnno
 
 Citation:  
-AgeAnno: A knowledgebase of single-cell annotation of aging in human
+Kexin Huang, Hoaran Gong, Jingjing Guan, Lingxiao Zhang, Changbao Hu, Weiling Zhao, Liyu Huang, Wei Zhang, Pora Kim, Xiaobo Zhou, AgeAnno: a knowledgebase of single-cell annotation of aging in human, Nucleic Acids Research, 2022;, gkac847, https://doi.org/10.1093/nar/gkac847
 
 https://relab.xidian.edu.cn/AgeAnno/#/
 
-Kexin Huang, Haoran Gong, Jingjing Guan, Lingxiao Zhang, Changbao Hu, Weiling Zhao, Liyu Huang, Wei Zhang, Pora Kim, Xiaobo Zhou
 
 
 # Database introduction:
